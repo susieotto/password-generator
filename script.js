@@ -1,3 +1,4 @@
+// Created by Susie Otto
 // Set static variables
 var abcUpper = "ABCDEFGHIJKLMNOPQRSTUVWXYZ";
 var abcUpperArr = abcUpper.split("");
@@ -57,3 +58,4 @@ function generatePass() {
 
   document.getElementById("password").innerHTML = resultPass;
 }
+// Created by Susie Otto
